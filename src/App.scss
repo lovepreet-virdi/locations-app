@@ -1,0 +1,28 @@
+
+$grey-color: #F0F1F3;
+$primary-color: #3f51b5;
+.App {
+  background-color: $grey-color;
+  height: 100vh;
+}
+.grey-btn{
+  background-color: $grey-color !important;
+  color: #000 !important;
+}
+.c-primary{
+  color: $primary-color !important
+}
+#root{
+  height: 100%
+}
+
+.rounded-btn{
+  border-radius: 15px 15px !important;
+}
+.single-select{
+  padding-top: 16px !important
+}
+.phone-field{
+  padding-top: 16px !important
+   
+}
